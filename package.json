@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-plugin-firebase-weare365",
+  "peerDependencies": {
+    "firebase": "7.x",
+    "gatsby": "2.x",
+    "react": "16.8.x",
+    "react-dom": "16.8.x"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
